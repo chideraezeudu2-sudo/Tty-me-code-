@@ -1,0 +1,6 @@
+{
+  "name": "tty.live",
+  "description": "Zero-latency terminal sharing for developers. Share your terminal live through a simple link.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
